@@ -20,7 +20,7 @@
   - 🌍 [Innovations for Social Good](https://github.com/metsam237/ai-emerging-tech)
   
 - **🛠️ IT Support & Help Desk Solutions:**  
-  - 🖥️ [IT Support Automation & Troubleshooting](https://github.com/metsam237/IT-Support)  
+  - 🖥️ [IT Support Automation & Troubleshooting](https://github.com/Metsam237/Jira-Ticketing-Lab)  
   - ⚙️ Working on **streamlining IT help desk operations** through automation and cloud-based solutions.
   
 - **📊 Management Consulting & Tech Integration:**  
