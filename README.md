@@ -12,7 +12,7 @@ I'm passionate about harnessing technology to solve real-world business challeng
 
 ---
 
-## [☁️ Cloud Engineering](https://github.com/metsam237/Cloud-Automation)
+## [☁️ Cloud Engineering](https://github.com/Metsam237/Cloud_Engineering)
 Build and automate robust, secure, and scalable cloud infrastructures using best DevOps practices.
 
 ### 🛠 Tools & Skills:
