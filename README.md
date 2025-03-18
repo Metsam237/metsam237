@@ -6,12 +6,6 @@
   <a href="https://github.com/metsam237">Cloud & AI Innovator</a>
 </h1>
 
-<!-- Banner image reflecting professional interests -->
-<p align="left">
-  <img src="https://github.com/Metsam237/metsam237/metsam237/metsam237.github.io/blob/main/A_professional_and_sleek_profile_banner_for_a_tech.webp" alt="Profile Banner" width="80%">
-</p>
-
----
 
 ## 🚀 About Me
 I'm passionate about harnessing technology to solve real-world business challenges. I specialize in **Cloud Automation**, **Cybersecurity**, and **Artificial Intelligence**, focusing on creating scalable, secure, and intelligent solutions.
