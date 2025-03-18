@@ -12,7 +12,7 @@ I'm passionate about harnessing technology to solve real-world business challeng
 
 ---
 
-## ☁️ Cloud Engineering
+## [☁️ Cloud Engineering](https://github.com/metsam237/Cloud-Automation)
 Build and automate robust, secure, and scalable cloud infrastructures using best DevOps practices.
 
 ### 🛠 Tools & Skills:
@@ -20,11 +20,9 @@ Build and automate robust, secure, and scalable cloud infrastructures using best
 - **Infrastructure as Code (IaC)** <!-- Automating infrastructure deployment -->
 - **Cloud Security & Compliance** <!-- Ensuring secure cloud environments -->
 
-🔗 [Cloud Automation Projects](https://github.com/metsam237/Cloud-Automation)
-
 ---
 
-## 🔒 Cybersecurity & Risk Management
+## [🔒 Cybersecurity & Risk Management](https://github.com/metsam237/Cybersecurity)
 Safeguarding digital assets and infrastructure through proactive risk management and security automation.
 
 ### 📌 Expertise:
@@ -32,11 +30,9 @@ Safeguarding digital assets and infrastructure through proactive risk management
 - **Incident Management & Risk Mitigation** <!-- Responding effectively to security incidents -->
 - **Security Automation & Compliance** <!-- Automating compliance checks -->
 
-🔗 [Cybersecurity Projects](https://github.com/metsam237/Cybersecurity)
-
 ---
 
-## 🤖 AI & Emerging Technologies
+## [🤖 AI & Emerging Technologies](https://github.com/metsam237/AI-Emerging-Tech)
 Leveraging AI and machine learning to drive efficiency, innovation, and strategic decision-making.
 
 ### 📌 Focus Areas:
@@ -44,13 +40,11 @@ Leveraging AI and machine learning to drive efficiency, innovation, and strategi
 - **Automating Business Processes** <!-- Streamlining business processes -->
 - **AI for Cloud Optimization** <!-- AI-driven cloud efficiency -->
 
-🔗 [AI & Tech Innovations](https://github.com/metsam237/AI-Emerging-Tech)
-
 ---
 
 ## 🛠️ Additional Expertise & Interests
 
-### 🖥️ IT Support & Help Desk Solutions
+### [🖥️ IT Support & Help Desk Solutions](https://github.com/Metsam237/Jira-Ticketing-Lab)
 - **IT Support Automation & Troubleshooting** <!-- Automating help desk processes -->
 - Streamlining IT operations with cloud-based automation solutions.
 
