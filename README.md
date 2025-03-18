@@ -1,12 +1,12 @@
-<!-- Main profile header section with central alignment -->
+<!-- Main profile header tailored to reflect actual qualifications and interests -->
 <h1 align="left">
   Hi, I'm Hervé Patrick Kouna! 👋<br/>
-  <!-- Links to professional profiles for networking and insights -->
-  <a href="https://linkedin.com/in/hervepatrickkouna">🔗 LinkedIn</a> |
-  <a href="https://medium.com/@hervepatrick">📝 Medium Blog</a>
+  <a href="https://linkedin.com/in/hervepatrickkouna">Business Advisor & Technology Strategist</a>,
+  <a href="https://medium.com/@hervepatrick">Cybersecurity Specialist</a>,
+  <a href="https://github.com/metsam237">Cloud & AI Innovator</a>
 </h1>
 
-<!-- Updated banner image from GitHub link reflecting professional interests -->
+<!-- Banner image reflecting professional interests -->
 <p align="left">
   <img src="https://github.com/Metsam237/metsam237/metsam237/metsam237.github.io/blob/main/A_professional_and_sleek_profile_banner_for_a_tech.webp" alt="Profile Banner" width="80%">
 </p>
@@ -23,8 +23,8 @@ Build and automate robust, secure, and scalable cloud infrastructures using best
 
 ### 🛠 Tools & Skills:
 - **AWS, Terraform, Ansible, Kubernetes** <!-- Key cloud technologies -->
-- **Infrastructure as Code (IaC)** <!-- Automating infrastructure deployment with scripting -->
-- **Cloud Security & Compliance** <!-- Managing security and compliance effectively -->
+- **Infrastructure as Code (IaC)** <!-- Automating infrastructure deployment -->
+- **Cloud Security & Compliance** <!-- Ensuring secure cloud environments -->
 
 🔗 [Cloud Automation Projects](https://github.com/metsam237/Cloud-Automation)
 
@@ -34,9 +34,9 @@ Build and automate robust, secure, and scalable cloud infrastructures using best
 Safeguarding digital assets and infrastructure through proactive risk management and security automation.
 
 ### 📌 Expertise:
-- **Threat Detection & Response** <!-- Identifying and addressing cybersecurity threats -->
-- **Incident Management & Risk Mitigation** <!-- Effective handling of security incidents -->
-- **Security Automation & Compliance** <!-- Streamlining security compliance processes -->
+- **Threat Detection & Response** <!-- Detecting cybersecurity threats -->
+- **Incident Management & Risk Mitigation** <!-- Responding effectively to security incidents -->
+- **Security Automation & Compliance** <!-- Automating compliance checks -->
 
 🔗 [Cybersecurity Projects](https://github.com/metsam237/Cybersecurity)
 
@@ -46,9 +46,9 @@ Safeguarding digital assets and infrastructure through proactive risk management
 Leveraging AI and machine learning to drive efficiency, innovation, and strategic decision-making.
 
 ### 📌 Focus Areas:
-- **Predictive Analytics for Security** <!-- Using AI to predict and prevent cybersecurity threats -->
-- **Automating Business Processes** <!-- Streamlining operations through machine learning -->
-- **AI for Cloud Optimization** <!-- Enhancing efficiency and reducing cloud costs through AI -->
+- **Predictive Analytics for Security** <!-- AI for security predictions -->
+- **Automating Business Processes** <!-- Streamlining business processes -->
+- **AI for Cloud Optimization** <!-- AI-driven cloud efficiency -->
 
 🔗 [AI & Tech Innovations](https://github.com/metsam237/AI-Emerging-Tech)
 
@@ -57,18 +57,17 @@ Leveraging AI and machine learning to drive efficiency, innovation, and strategi
 ## 🛠️ Additional Expertise & Interests
 
 ### 🖥️ IT Support & Help Desk Solutions
-- **IT Support Automation & Troubleshooting** <!-- Automating IT support processes -->
-- Working on streamlining IT help desk operations through automation and cloud-based solutions.
+- **IT Support Automation & Troubleshooting** <!-- Automating help desk processes -->
+- Streamlining IT operations with cloud-based automation solutions.
 
 ### 📊 Management Consulting & Tech Integration
-- Exploring collaborations with consulting firms to leverage technology in enhancing client offerings & customer experiences.
-- [Follow my work on LinkedIn](https://linkedin.com/in/hervepatrickkouna)
+- Collaborating with consulting firms to leverage technology and enhance client offerings.
+- [Connect on LinkedIn](https://linkedin.com/in/hervepatrickkouna)
 
 ---
 
 ## 📜 Certifications
 
-<!-- Clearly differentiate current and completed certifications -->
 ### 🔄 **In Progress:**
 - ☁️ **AWS Cloud Practitioner**
 - 🔐 **Cybersecurity Specialist**
@@ -93,7 +92,7 @@ Leveraging AI and machine learning to drive efficiency, innovation, and strategi
 ## 📫 Let's Connect
 Open for collaboration, projects, and tech discussions.
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/hervepatrickkouna/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px"></a>
   <a href="https://github.com/metsam237"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30px"></a>
   <a href="https://twitter.com/hervepatrick"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px"></a>
